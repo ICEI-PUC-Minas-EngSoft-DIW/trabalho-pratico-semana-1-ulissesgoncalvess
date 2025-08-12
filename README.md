@@ -2,16 +2,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Ulisses Miguel de Freitas Gonçalves
+Matricula: 901839
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![inspenção](/images/diw_printportal.jpeg)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Replit](/images/interface_web.png)
 
 
 ## Orientações sobre Linguagem MarkDown
